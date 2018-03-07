@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">RorschachTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+ <string name="a1">一张惊恐的脸#1#|漩涡#2#|面具#3#|鲜花#4#|性感的画像#5#</string>
+    <string name="a2">一只小兔子的头#1#|一只拉长的小马的头#2#|X光片，特别是下半部分#3#|地道或隧道#4#|一张要吞了人的血盆大口#5#</string>
+    <string name="a3">两个断臂人在接吻#1#|镜子里反射的意大利海岸线#2#|膝盖接触着的腿#3#|DNA测试结果#4#|从烟囱里冒出来的浓烟#5#</string>
+    <string name="a4">运动着的宇宙空间#1#|蝴蝶#2#|就是一堆洒了的墨水#3#|一个人骑在另一个人头上，他们的手臂是向外伸展着的#4#|一个暴露再我面前的女人#5#</string>
+    <string name="a5">一双充满邪恶的眼睛，看着让人觉得有点恐怖#1#|小兔子#2#|被高速行驶的子弹头式火车撞上的人#3#|什么都不像#4#|把墨水洒再纸上，然后对折形成的图形#5#</string>
+    <string name="a6">一只咆哮的大狗#1#|一个妖怪咬一只无助的小狗#2#|正在ML的人#3#|跳动的心脏#4#|大脑受伤的山羊#5#</string>
+    <string name="control_title_text">你看到了什么?</string>
+    <string name="previous_quest">上一题</string>
+      <string name="next_quest">下一题</string>
+      <string name="test_result">测试结果</string>
+      <string name="answer">回答</string>
+      <string name="what_are_you_see">你看到了什么</string>
+      <string name="what_is_this_look_that">这看起来像什么?</string>
+</resources>
